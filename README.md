@@ -124,10 +124,7 @@ video-detection-tracking/
 
 This project is intended as an applied computer vision systems demonstration and is structured to support extension to streaming inputs, alternative detectors, and large-scale deployment scenarios.
 
----
 
 ## License
 
 MIT License
-
-```
